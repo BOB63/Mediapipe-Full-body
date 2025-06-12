@@ -12,3 +12,6 @@ NOTA : con w11 installare modulo scikit-learn al posto di scklearn
 python -m pip install scikit-learn --user
 
 Per installazione Python , OpenCV e MediaPipe fare riferimento a rispettivi siti web 
+
+For more info see tutorial https://www.youtube.com/watch?v=We1uB79Ci-w&ab_channel=NicholasRenotte
+All my codes are extracted from the above tutorial
