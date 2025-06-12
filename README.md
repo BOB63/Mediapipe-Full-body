@@ -8,9 +8,9 @@ Sequenza Utilizzo files :
 
 
 
-full_coords.csv                 file contenente coordinate landmarks generato da Full MPRec & Export v1.py
+full_coords.csv  ,               file contenente coordinate landmarks generato da Full MPRec & Export v1.py
 
-full_language.pkl               file modello ML addestrato generato da Full training_pose v1.py 
+full_language.pkl  ,             file modello ML addestrato generato da Full training_pose v1.py 
 
 NOTA : con w11 installare modulo scikit-learn al posto di scklearn
 
